@@ -55,9 +55,6 @@ class Song
   genre_count
   artist_count
   
-  
-
-  
 end
 end
 end
