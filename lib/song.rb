@@ -24,7 +24,7 @@ class Song
   
   def self.count
     @@count
-    puts count
+  
   end
   
   
